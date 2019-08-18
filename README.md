@@ -7,6 +7,8 @@ Contains ipynb notebooks with code of the basic algorithms in ML
 4. Bayesian Learning - LR, Naive Bayes
 5. SVM
 6. NN - self implemented, Partly Pytorch, Pytorch
+7. CNN and transfer learning
 
 - all notebooks are from the course of machine learning workshop at TU Berlin
+- incomplete notebooks will be filled overtime
 
