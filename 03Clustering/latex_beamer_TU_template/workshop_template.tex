@@ -1,0 +1,71 @@
+\documentclass[Nike]{tuberlinbeamer}
+\graphicspath{{./tuberlinbeamer/}{./figures/}}
+\usepackage[english]{babel}  % 'babel' muss geladen werden
+\usepackage[utf8]{inputenc}  % optional, aber empfehlenswert
+\usepackage{amsmath,amssymb}
+% recommended styles: authoryear, alphabetic
+\usepackage[style=authoryear]{biblatex}
+\bibliography{references.bib}
+\setbeamertemplate{bibliography item}{}
+
+\usepackage{subfig}
+\usepackage{hyperref}
+
+% Notes on second screen (\note{...}) using `pdfpc --notes=right generative_nns.pdf`.
+%\usepackage{pgfpages}
+%\usepackage{mybeamerbasenotes}
+%\setbeameroption{show notes on second screen}
+
+\title{\todo{Title}}
+\subtitle{Beginner's Workshop Machine Learning 2018}
+\author{}
+\institute{Technische Universität Berlin - Machine Learning Group}
+
+% Eigenes Logo einfuegen:
+\renewcommand{\pathtomylogo}{ida_logo}
+
+\usepackage{mycommands}
+
+\AtBeginSection[]
+{
+  \begin{frame}
+    \frametitle{Agenda}
+    \tableofcontents[currentsection]
+  \end{frame}
+}
+
+\AtBeginSubsection[]
+{
+  \begin{frame}
+    \frametitle{Agenda}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+\frametitle{Agenda}
+\tableofcontents
+\end{frame}
+
+
+\begin{frame}%[allowframebreaks]  % Uncomment if you need more than one page for references
+  \frametitle{References}
+  \printbibliography
+\end{frame}
+
+
+\begin{frame}[c]
+  \begin{center}
+    \Huge{Thank you!}
+  \end{center}
+\end{frame}
+\end{document}

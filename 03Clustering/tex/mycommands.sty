@@ -1,0 +1,60 @@
+%%%%%%%%%%%%%%% COLOR CODES %%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage[usenames,dvipsnames]{xcolor}
+\newcommand{\todo}[1]{{\color{indianred}\textbf{TODO} #1}}
+
+%%%%%%%%%%%%%%%%%%%% ABBREVIATIONS %%%%%%%%%%%%%%%%%%%%
+\newcommand{\eg}{e.\,g.\ }
+\newcommand{\ie}{i.\,e.\ }
+\newcommand{\ia}{i.\,a.\ }
+\newcommand{\wrt}{w.\,r.\,t.\ }
+\newcommand{\aka}{a.\,k.\,a.\ }
+
+%%%%%%%%%%%%%%%%%%%% BEAMER %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Hide parts of text in presentation
+\newcommand\hideit[1]{%
+  \only<0| presentation:1>{\mbox{}}%
+  \invisible<0| presentation:1>{#1}
+}
+
+% average bar
+\newcommand*\average[1]{\bar{#1}}
+%\newcommand*\norm[1]{\left|{#1}\right|}
+\newcommand{\Exp}{{\rm I\kern-.3em E}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\shallequal}{\stackrel{!}{=}}
+\newcommand{\corresponds}{\mathrel{\widehat=}}
+\newcommand{\normal}{\mathcal{N}}
+
+\DeclareMathOperator*{\argmin}{arg\,min} 
+\DeclareMathOperator*{\argmax}{arg\,max} 
+
+% Number sets
+\usepackage{amsfonts}
+\newcommand{\realnum}{\mathbb{R}}
+\newcommand{\compnum}{\mathbb{C}}
+\newcommand{\intnum}{\mathbb{Z}}
+\newcommand{\natnum}{\mathbb{N}}
+
+% ordinal number
+\newcommand{\nth}{\ensuremath{^\text{th}}}
+
+% indicator function
+\newcommand{\indfun}{\mathbb{I}}
+
+% sum with limits below and above
+\newcommand{\lsum}{\sum\limits}
+
+% is defined to be equal to
+\newcommand*{\defeq}{\mathrel{\vcenter{\baselineskip0.5ex \lineskiplimit0pt
+\hbox{\scriptsize.}\hbox{\scriptsize.}}}%
+=}
+\newcommand*{\eqdef}{= \mathrel{\vcenter{\baselineskip0.5ex \lineskiplimit0pt
+\hbox{\scriptsize.}\hbox{\scriptsize.}}}
+}
+
+% use an enspace after equation for commata/points
+
+%%%%%%%%%%%%%% Colors %%%%%%%%%%%%%%
+\definecolor{indianred}{HTML}{cd5c5c}
+\definecolor{mediumseagreen}{HTML}{3cb371}
+\definecolor{orange}{HTML}{faa460}

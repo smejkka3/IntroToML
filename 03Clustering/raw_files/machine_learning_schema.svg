@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="machine_learning_schema.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 74 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 74 : 1"
+       inkscape:persp3d-origin="105 : 49.333333 : 1"
+       id="perspective4853" />
+    <symbol
+       id="Process">
+      <title
+         id="title4261">Process</title>
+      <desc
+         id="desc4263">Any processing function.</desc>
+      <rect
+         x="3.96875"
+         y="9.260417"
+         width="31.75"
+         height="21.166666"
+         style="stroke-width:0.52916664"
+         id="rect4265" />
+    </symbol>
+    <symbol
+       id="Connector">
+      <title
+         id="title4389">Connector</title>
+      <desc
+         id="desc4391">Exit to or entry from another part of chart.</desc>
+      <circle
+         cx="19.84375"
+         cy="19.84375"
+         r="5.2916665"
+         style="stroke-width:0.52916664"
+         id="circle4393" />
+    </symbol>
+    <symbol
+       id="AuxillaryOp">
+      <title
+         id="title4326">Auxiliary Operation</title>
+      <desc
+         id="desc4328">Offline operation.</desc>
+      <rect
+         x="9.260417"
+         y="9.260417"
+         width="21.166666"
+         height="21.166666"
+         style="stroke-width:0.52916664"
+         id="rect4330" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="222.57115"
+     inkscape:cy="326.05041"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1872"
+     inkscape:window-height="1051"
+     inkscape:window-x="48"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10000"
+     showguides="false"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4851"
+       spacingx="5"
+       spacingy="5"
+       empspacing="4"
+       dotted="false"
+       units="mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-149)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6959"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion6961"><rect
+           id="rect6963"
+           width="75.590553"
+           height="75.590553"
+           x="340.15747"
+           y="30.236221" /></flowRegion><flowPara
+         id="flowPara6965" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.83794"
+       y="215.75029"
+       id="text7135"><tspan
+         sodipodi:role="line"
+         x="38.83794"
+         y="215.75029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7139">Supervised</tspan><tspan
+         sodipodi:role="line"
+         x="38.83794"
+         y="226.33362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7143">Learning</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.7035,222.46546 27.23688,52.99468"
+       id="path7209"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#use7123"
+       inkscape:connection-start="#use7119" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Connector"
+       style="fill:#aaccee;stroke:#000000;stroke-width:0.25145295;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(3.5791983,0,0,3.5791983,79.3865,204.43542)"
+       id="use7123" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="149.75479"
+       y="275.88593"
+       id="text7187"><tspan
+         sodipodi:role="line"
+         x="149.75479"
+         y="275.88593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7185">Clustering</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7189"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion7191"><rect
+           id="rect7193"
+           width="529.13385"
+           height="188.97638"
+           x="245.6693"
+           y="-102.04724" /></flowRegion><flowPara
+         id="flowPara7195" /></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 124.77257,171.09592 40.825338,221.12911"
+       id="path7197"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#use7117"
+       inkscape:connection-start="#use7059" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 124.77257,171.09592 -1.06907,51.36954"
+       id="path7199"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#use7119"
+       inkscape:connection-start="#use7059" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 124.24341,171.09592 187.02178,223"
+       id="path7201"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#use7121" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Connector"
+       style="fill:#aaccee;stroke:#000000;stroke-width:0.25145295;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(3.5791983,0,0,3.5791983,115.46789,151.97528)"
+       id="use7121" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="186.90526"
+       y="218.95753"
+       id="text7155"><tspan
+         sodipodi:role="line"
+         x="186.90526"
+         y="218.95753"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7153">Reinforcement</tspan><tspan
+         sodipodi:role="line"
+         x="186.90526"
+         y="229.54086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7165">Learning</tspan></text>
+    <use
+       id="use7059"
+       transform="matrix(3.5791983,0,0,3.5791983,53.21869,100.0712)"
+       style="fill:#aaccee;stroke:#000000;stroke-width:0.25145295;stroke-miterlimit:4;stroke-dasharray:none"
+       xlink:href="#Connector"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       id="text7013"
+       y="166.03816"
+       x="123.82964"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan7009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="166.03816"
+         x="123.82964"
+         sodipodi:role="line">Machine</tspan><tspan
+         id="tspan7011"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="176.62149"
+         x="123.82964"
+         sodipodi:role="line">Learning</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 40.825338,221.12911 21.581931,275.46014"
+       id="path7203"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#use7129"
+       inkscape:connection-start="#use7117" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Connector"
+       style="fill:#aaccee;stroke:#000000;stroke-width:0.25145295;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(3.5791983,0,0,3.5791983,-49.971952,204.43542)"
+       id="use7129" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="20.396343"
+       y="277.22229"
+       id="text7171"><tspan
+         sodipodi:role="line"
+         x="20.396343"
+         y="277.22229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7169">Regression</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.825338,221.12911 23.519717,54.33103"
+       id="path7205"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#use7127"
+       inkscape:connection-start="#use7117" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Connector"
+       style="fill:#aaccee;stroke:#000000;stroke-width:0.25145295;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(3.5791983,0,0,3.5791983,-30.728545,150.10439)"
+       id="use7117" />
+    <text
+       id="text7149"
+       y="215.75029"
+       x="38.83794"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan7145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="215.75029"
+         x="38.83794"
+         sodipodi:role="line">Supervised</tspan><tspan
+         id="tspan7147"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="226.33362"
+         x="38.83794"
+         sodipodi:role="line">Learning</tspan></text>
+    <use
+       id="use7127"
+       transform="matrix(3.5791983,0,0,3.5791983,-7.2088275,204.43542)"
+       style="fill:#aaccee;stroke:#000000;stroke-width:0.25145295;stroke-miterlimit:4;stroke-dasharray:none"
+       xlink:href="#Connector"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       id="text7177"
+       y="276.1532"
+       x="62.624928"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan7175"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="276.1532"
+         x="62.624928"
+         sodipodi:role="line">Classification</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.7035,222.46546 -15.52624,52.99468"
+       id="path7207"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#use7125"
+       inkscape:connection-start="#use7119" />
+    <use
+       id="use7119"
+       transform="matrix(3.5791983,0,0,3.5791983,52.149612,151.44074)"
+       style="fill:#aaccee;stroke:#000000;stroke-width:0.27939218;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       xlink:href="#Connector"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       id="text7161"
+       y="218.15573"
+       x="122.76056"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan7157"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="218.15573"
+         x="122.76056"
+         sodipodi:role="line">Unsupervised</tspan><tspan
+         id="tspan7159"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="228.73906"
+         x="122.76056"
+         sodipodi:role="line">Learning</tspan></text>
+    <use
+       id="use7125"
+       transform="matrix(3.5791983,0,0,3.5791983,36.623376,204.43542)"
+       style="fill:#aaccee;stroke:#000000;stroke-width:0.25145295;stroke-miterlimit:4;stroke-dasharray:none"
+       xlink:href="#Connector"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="107.5262"
+       y="272.41141"
+       id="text7181"><tspan
+         sodipodi:role="line"
+         x="107.5262"
+         y="272.41141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7179">Dimensionality</tspan><tspan
+         sodipodi:role="line"
+         x="107.5262"
+         y="282.99475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7183">Reduction</tspan></text>
+  </g>
+</svg>
